@@ -1,2 +1,2 @@
-name "oracle-db-component"
-version "0.1.0"
+name "oracle_db_component"
+version "0.1.1"
